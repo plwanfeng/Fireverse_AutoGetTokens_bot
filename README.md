@@ -5,9 +5,9 @@ Fireverse自动化工具是一个帮助用户自动获取Fireverse平台token并
 ## 准备工作
 下载本项目
 
-```
-git clone https://github.com/plwanfeng/Fireverse_AutoGetTokens_bot.git
-```
+   ```
+   git clone https://github.com/plwanfeng/Fireverse_AutoGetTokens_bot.git
+   ```
 
 1. 安装依赖
    

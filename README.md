@@ -3,6 +3,12 @@
 Fireverse自动化工具是一个帮助用户自动获取Fireverse平台token并进行音乐播放任务的工具，可以帮助用户完成日常任务并获取积分和经验值。
 
 ## 准备工作
+下载本项目
+
+```
+git clone https://github.com/plwanfeng/Fireverse_AutoGetTokens_bot.git
+```
+
 1. 安装依赖
    
    在使用前，请确保已安装所有必要的依赖包：
